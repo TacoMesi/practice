@@ -4,6 +4,8 @@
  </head>
  <body>
  <?php echo '<p>Hello World</p>'; 
-   print "これはテストコードです" ?> 
+   print "これはテストコードです" 
+   print "子の作業は自分のブランチで行いました"
+?>
  </body>
 </html>
